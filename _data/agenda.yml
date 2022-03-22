@@ -1,0 +1,81 @@
+-
+  date: "18 Mars"
+  tracks: 1
+  slots: 
+    - 
+      start: "13:30"
+      end: "14:30"
+      sessions: [14]
+    -
+      start: "14:30"
+      end: "15:00"
+      sessions: [1]
+    -
+      start: "15:00"
+      end: "17:00"
+      sessions: [2]
+    -
+      start: "17:00"
+      end: "17:15"
+      sessions: [17]
+    -
+      start: "17:15"
+      end: "18:00"
+      sessions: [4]
+    -
+      start: "18:00"
+      end: "19:00"
+      sessions: [5]
+    -
+      start: "19:00"
+      end: "20:00"
+      sessions: [7]
+    -
+      start: "20:00"
+      end: "22:00"
+      sessions: [8]
+-
+  date: "19 Mars"
+  tracks: 1
+  slots:
+    - 
+      start: "07:00"
+      end: "09:00"
+      sessions: [9]
+    -
+      start: "09:00"
+      end: "09:30"
+      sessions: [10]
+    -
+      start: "09:30"
+      end: "10:00"
+      sessions: [11]
+    -
+      start: "10:00"
+      end: "10:30"
+      sessions: [12]
+    -
+      start: "10:45"
+      end: "11:00"
+      sessions: [3]
+    -
+      start: "11:00"
+      end: "11:30"
+      sessions: [6]
+    -
+      start: "11:30"
+      end: "12:30"
+      sessions: [13]
+    -
+      start: "12:30"
+      end: "14:00"
+      sessions: [16]
+    -
+      start: "14:00"
+      end: "14:20"
+      sessions: [15]
+    -
+      start: "14:20"
+      end: "16:00"
+      sessions: [18]
+  

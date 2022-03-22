@@ -1,0 +1,19 @@
+---
+layout: default
+permalink: /
+id: "home"
+---
+
+<header>
+    <div class="container">
+        <div class="intro-text">
+            <div class="intro-heading">{{ site.title }}<br></div>
+            <div class="intro-lead-in">{{ site.dates }}</div>
+        </div>
+    </div>
+</header>
+
+{% include intro.html %}
+<div style="background-color: {{ site.pageHeaders['statistics'].bg }}; color: {{ site.pageHeaders['statistics'].font }};">
+    {% include statistics.html %}
+</div>

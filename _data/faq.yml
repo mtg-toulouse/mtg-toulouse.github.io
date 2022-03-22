@@ -1,0 +1,28 @@
+- question: Quelles sont les horaires de check-in et de check-out ?
+  answer: Check in 17h, check out 10h.
+
+- question: Quelles sont les horaires du petit déjeuner ?
+  answer: Petit-déjeuner de 6h30 à 9h30.
+
+- question: A quelle heure partent les navettes samedi ? 
+  answer: 14h20
+
+- question: Est ce que l'on peut utiliser la piscine ? 
+  answer: Elle est ouverte de 6h30 à 23h00.
+
+- question: Est ce que je peux changer de bînome pour la chambre ? 
+  answer: Oui mettez-vous juste d'accord entre vous.
+
+- question: Où est ce que je peux retouver tout les assets du branding MTG ? 
+  answer: "
+  Il faut d'abord demander accès au repo privé auprès de devrelfr@microsoft.com.
+  Voici le lien vers le <a href='https://github.com/mtg-x/branding-assets' target='_blank'>repository du branding</a>.
+  "
+- question: Où est ce que je peux retouver le template du site ? 
+  answer: "
+  Voici le lien vers le <a href='https://github.com/mtg-x/event-template' target='_blank'>repository du template de site</a>.
+  "
+- question: Où est ce que je peux retouver le logo generator ? 
+  answer: "
+  Voici le lien vers le <a href='https://aka.ms/mtg-logogen' target='_blank'>logo generator</a>.
+  "
