@@ -2,8 +2,8 @@ title: MTG:Toulouse
 dates: 18-19 Mars
 description: > # this means to ignore newlines until "baseurl:"
   Your description
-baseurl: "/event-template" # the subpath of your site, e.g. /blog
-url: "https://mtg-x.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mtg-toulouse.github.io" # the base hostname & protocol for your site
 
 #navigation
 navigationLinks:
