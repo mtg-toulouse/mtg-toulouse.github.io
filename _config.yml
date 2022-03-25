@@ -1,4 +1,4 @@
-title: MTG Summit 2022
+title: MTG:Toulouse
 dates: 18-19 Mars
 description: > # this means to ignore newlines until "baseurl:"
   Your description
@@ -9,16 +9,16 @@ url: "https://mtg-x.github.io" # the base hostname & protocol for your site
 navigationLinks:
  - {url: "/", text: "Accueil"}
  - {url: "/agenda/", text: "Agenda"}
- - {url: "/speakers/", text: "Speakers"}
- - {url: "/team/", text: "Participants"}
+ #- {url: "/speakers/", text: "Speakers"}
+ - {url: "/sponsors/", text: "Partenaires"}
+ - {url: "/association/", text: "L'association"}
  - {url: "/faq/", text: "FAQ"}
  - {url: "/coc/", text: "CoC"}
- - {url: "/sponsors/", text: "Communautés"}
 
 pageHeaders:
   agenda: {bg: "#00a1f1", font: "#fff", title: "Agenda"}
   speakers: {bg: "#f65314", font: "#fff", title: "Speakers"}
-  team: {bg: "#7cbb00", font: "#fff", title: "Participants"}
+  association: {bg: "#7cbb00", font: "#fff", title: "L'Association"}
   faq: {bg: "#ffbb00", font: "#fff", title: "Foire Aux Questions"}
   coc: {bg: "#f65314", font: "#fff", title: "Code de Conduite"}
   sessions: {bg: "#7cbb00", font: "#fff"}

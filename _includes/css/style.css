@@ -131,18 +131,18 @@
   }
   
   header {
-      height: 100vh;
+      height: 300px;
       text-align: center;
       color: #fff;
       background-attachment: scroll;
-      background-image: url({{ 'images/header-bg.jpg' | relative_url }});
+      background-image: url({{ 'images/header-bg-mtg.jpg' | relative_url }});
       background-position: center center;
       background-repeat: none;
       background-size: cover;
   }
   
   header .intro-text {
-      padding-top: 25vh;
+      padding-top: 170px;
       padding-bottom: 50px;
       text-shadow: 0px 0px 8px #000000;
   }
@@ -166,7 +166,7 @@
   
   @media(min-width:768px) {    
       header .intro-text {
-          padding-top: 300px;
+          padding-top: 140px;
           padding-bottom: 200px;
       }
   
