@@ -1,12 +1,8 @@
 - 
-  count: 20
+  count: 880
   specialCharacter: ""
-  info: "communities"
+  info: "membres"
 - 
-  count: 14.5 k
+  count: 55
   specialCharacter: ""
-  info: "members"
-- 
-  count: 451
-  specialCharacter: ""
-  info: "events"
+  info: "évènements"
