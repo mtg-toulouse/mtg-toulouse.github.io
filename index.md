@@ -34,8 +34,7 @@ Ces conférences s'effectuent en général en présentiel à **NovaMêlée**, au
 Elles peuvent parfois être délocalisées dans des sociétés, des écoles ou d'autres lieux pour des occasions particulières.
 
 <div class="text-center">
-    <a class="btn btn-lg btn-primary" href="https://discord.gg/yZRf79ag" role="button" style="background-color: #7289DA; border-color: #7289DA"><i class="bi bi-discord"></i>&nbsp;Serveur Discord</a>
-    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Page Meetup</a>
+    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Meetup .Net Toulouse</a>
 </div>
 
 
@@ -46,9 +45,9 @@ Nous sommes constamment à la recherche de personnes pour venir partager leurs e
 Si vous avez des idées de sujets, ou si vous souhaitez nous contacter en rapport avec un évènement passé ou si vous souhaitez accueillir un de nos évènements, contactez-nous :
 
 <div class="text-center">
-    <a class="btn btn-lg btn-primary" href="https://discord.gg/yZRf79ag" role="button" style="background-color: #7289DA; border-color: #7289DA"><i class="bi bi-discord"></i>&nbsp;Call-for-Paper</a>
-    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Page Meetup</a>
-    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Email</a>
+    <a class="btn btn-lg btn-primary" href="https://conference-hall.io/public/event/pZtNg2uiVvdyucYrRoB7" role="button" style="background-color: #ffab00; border-color: #ffab00; color: #2a3244"><i class="bi bi-megaphone-fill"></i>&nbsp;Call-for-Paper</a>
+    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Meetup .Net Toulouse</a>
+    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style=""><i class="bi bi-envelope-heart"></i>&nbsp;Email</a>
 </div>
 
 
@@ -58,5 +57,5 @@ Vous pouvez venir discuter avec les autres adhérents.
 
 <div class="text-center">
     <a class="btn btn-lg btn-primary" href="https://discord.gg/yZRf79ag" role="button" style="background-color: #7289DA; border-color: #7289DA"><i class="bi bi-discord"></i>&nbsp;Serveur Discord</a>
-    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Page Meetup</a>
+    <a class="btn btn-lg btn-primary" href="https://twitter.com/dotnettlse" role="button" style="background-color: #1DA1F2; border-color: #1DA1F2"><i class="bi bi-twitter"></i>&nbsp;@dotnettlse</a>
 </div>
