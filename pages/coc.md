@@ -5,61 +5,55 @@ permalink: /coc/
 title: Code de Conduite
 ---
 
-{% include page-header.html %}
+L'association MTG:Toulouse souhaite organiser des évènements à l'attention de tous, quelque soit votre genre, identité de genre, orientation sexuelle, handicap, apparence physique, race, age ou religion.
 
-The MTG Community Summit is dedicated to providing a harassment-free event experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
-We do not tolerate harassment of event participants in any form.
-Sexual language and imagery is not appropriate for any event venue, including talks.
-Event participants violating these rules may be sanctioned or expelled from the event at the discretion of the event organizers.
+Nous ne tolérons aucun harcèlement, quelle que soit sa forme.
 
-Harassment includes, but is not limited to:
+Les expressions et les images à connotation sexuelle ne sont pas appropriées lors des événements ou sur les médias en ligne.
 
-* Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion
-* Sexual images in public spaces
-* Deliberate intimidation, stalking, or following
-* Harassing photography or recording
-* Sustained disruption of talks or other events
-* Inappropriate physical contact
-* Unwelcome sexual attention
-* Advocating for, or encouraging, any of the above behaviour
+Les participants ne respectant pas ces règles peuvent être sanctionnés, voire exclus de nos évènements.
 
-## Enforcement
+Le harcèlement peut inclure, sans être limité à :
 
-Participants asked to stop any harassing behavior are expected to comply immediately
+* Commentaires verbaux renforcant les structures sociales de domination en lien avec le genre, l'orientation sexuelle, les handicaps, l'apparence physique, la race, l'âge ou la religion
+* Les images à connotation sexeuelle dans des évènements publics
+* Intimidation délibérée, stalking
+* Photographie ou enregistrement non désiré
+* Interruption ou gêne récurrente des évènements
+* Contact physique innaproprié
+* Manifestation à connotation sexuelle non souhaitée
+* Défendre ou encourager l'un des comportements cité ci-dessus
 
-Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy.
-In particular, exhibitors should not use sexualized images, activities, or other material.
-Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+## Application
 
-If a participant engages in harassing behaviour, event organisers retain the right to take any actions to keep the event a welcoming environment for all participants.
-This includes warning the offender or expulsion from the event.
+Toute demande à un participant de stopper un comportement jugé innaproprié doit être immédiatement suivi de faits.
 
-Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
+Tous les participants à un évènement ou se trouvant sur le lieu de l'évènement sont aussi appelés à respecter ce code de conduite.
 
-We expect participants to follow these rules at all event venues and event-related social activities.
-We think people should follow these rules outside event activities too!
+Si un participant manifest comportement innaproprié, les organisateurs de l'évènement se réservent le droit de prendre toute mesure permettant de maintenir une ambiance chaleureuse pour tous les participants de l'évènement.
+Ceci inclut l'avertissement du fautif ou son expulsion de l'énènement.
 
-## Reporting
+Nous attendons de tous les participants qu'ils suivent ces règles dans tous les évènements organisés par notre association.
+Nous pensons aussi que ces règles devraient être respectées en dehors des activités liées à nos évènements.
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible.
-Event staff can be identified by t-shirts/special badges/head sets.
-Harassment and other code of conduct violations reduce the value of our event for everyone.
-We want you to be happy at our event.
-People like you make our event a better place.
+## Notification
 
-## Personal Report
+Si une personne vous met mal à l'aise, vous ou tout autre personne, veuillez nous le notifier le plus rapidement possible.
+Les organisateurs sont en général identifiés clairement ou se sont présentés au lancement de l'évènement.
 
-You can make a personal report by:
+Le harcèlement et les différentes violations du code de conduite entâchent la qualité de nos évènements.
+Nous souhaitons que tous les participants soient heureux lors de nos évènements.
+Ce sont les participants comme vous qui font de nos évènements des moments agréables.
 
-* Calling or messaging this phone number: +33682448412 or +33621110251.
-  This phone numbers will be continuously monitored for the duration of the event.
-* Contacting a staff member, identified by STAFF badges, buttons, or shirts.
+## Témoignage en personne
 
-When taking a personal report, our staff will ensure you are safe and cannot be overheard.
-They may involve other event staff to ensure your report is managed properly.
-Once safe, we'll ask you to tell us about what happened.
-This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you.
-You won't be asked to confront anyone and we won't tell anyone who you are.
+Vous pouvez rapporter un évènement personnellement en contactant un membre du staff s'étant présenté au début de l'évènement.
 
-Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event.
-We value your attendance.
+Lorsque vous rapporterez un évènement, les organisateurs s'assureront que vous êtes en sécurité et que votre rapport ne pourra pas être entendu par d'autres.
+Ils pourront faire appels à d'autres organisateurs pour s'assurer que votre témoignage est pris en compte correctement.
+Une fois en sécurité, nous vous demanderons de nous expliquer ce qu'il s'est passé.
+Tout ceci peut être perturbant, mais nous ferons en sorte d'être les plus respectueux possibles, et vous pourrez vous faire accompagner.
+Nous ne  demanderons pas de confrontation, et nous ne divulgerons votre identité à personne.
+
+Notre équipe sera volontaire pour vous aider à contacter toute aide extérieure si nécessaire, pour vous aider à vous sentir rassurer durant la durée de l'évènement.
+Nous apportons beaucoup d'importance à votre présence.
