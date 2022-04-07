@@ -2,7 +2,7 @@ title: MTG:Toulouse
 description: > # this means to ignore newlines until "baseurl:"
   MTG:Toulouse
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mtg.dotnettlse.fr" # the base hostname & protocol for your site
+url: "https://preview.mtg-toulouse.org" # the base hostname & protocol for your site
 
 #navigation
 navigationLinks:
