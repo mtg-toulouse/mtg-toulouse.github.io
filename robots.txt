@@ -1,0 +1,4 @@
+Sitemap: https://preview.mtg-toulouse.org/sitemap.xml
+
+User-agent: *
+Disallow: /css

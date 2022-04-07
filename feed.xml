@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MTG:Toulouse</title>
+    <description>MTG:Toulouse
+</description>
+    <link>https://preview.mtg-toulouse.org/</link>
+    <atom:link href="https://preview.mtg-toulouse.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 Apr 2022 12:51:07 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2022 12:51:07 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+  </channel>
+</rss>
