@@ -9,10 +9,10 @@ navigationLinks:
  - {url: "/", text: "Accueil"}
  #- {url: "/agenda/", text: "Agenda"}
  #- {url: "/speakers/", text: "Speakers"}
- - {url: "/sponsors/", text: "Partenaires"}
- - {url: "/association/", text: "L'association"}
- - {url: "/faq/", text: "FAQ"}
- - {url: "/coc/", text: "CoC"}
+ - {url: "/sponsors", text: "Partenaires"}
+ - {url: "/association", text: "L'association"}
+ #- {url: "/faq/", text: "FAQ"}
+ - {url: "/coc", text: "Code de conduite"}
 
 pageHeaders:
 #  agenda: {bg: "#00a1f1", font: "#fff", title: "Agenda"}
@@ -51,11 +51,6 @@ plugins:
   - jekyll-datapage-generator
 
 page_gen-dirs: false
-
-page_gen:
-  - data: 'speakers'
-    template: 'speaker'
-    name: 'id'
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

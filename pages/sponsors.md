@@ -1,3 +1,12 @@
+---
+layout: default
+id: "sponsors"
+permalink: /sponsors
+title: Sponsors
+---
+
+{% include page-header.html %}
+
 <section id="sponsors" class="sponsors bg-light-gray">
     <div class="container">
         {% for pack in site.data.sponsors %}

@@ -2,20 +2,20 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col">
-                <div>SHARE</div>
+                <div>PARTAGEZ</div>
                 {% for network in site.share %}
                 <a href="{{ network.url }}{{network.text}}" target="_blank"><i class="bi bi-{{ network.platform }}"></i></a>
                 {% endfor %}
             </div>
             <div class="col">
-                <div>FOLLOW US</div>
+                <div>SUIVEZ-NOUS</div>
                 {% for network in site.social %}
                 <a href="{{ network.url }}" target="_blank"><i class="bi bi-{{ network.title }}"></i></a>
                 {% endfor %}
             </div>
             <div class="col">
-                <div>CONTACT US</div>
-                <i class="bi bi-envelope-fill" target="_blank"></i><a href="mailto:devrelfr@microsoft.com">devrelfr@microsoft.com</a>
+                <div>REJOIGNEZ-NOUS</div>
+                <a href="https://discord.gg/yZRf79ag"><i class="bi bi-discord"></i></a>
             </div>
         </div>
     </div>

@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 id: "home"
+title: MTG:Toulouse
 ---
 
 ### Bienvenue
@@ -37,6 +38,13 @@ Elles peuvent parfois être délocalisées dans des sociétés, des écoles ou d
     <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Meetup .Net Toulouse</a>
 </div>
 
+Vous pouvez venir discuter en ligne avec nous et les autres adhérents.
+
+<div class="text-center">
+    <a class="btn btn-lg btn-primary" href="https://discord.gg/yZRf79ag" role="button" style="background-color: #7289DA; border-color: #7289DA"><i class="bi bi-discord"></i>&nbsp;Serveur Discord</a>
+    <a class="btn btn-lg btn-primary" href="https://twitter.com/dotnettlse" role="button" style="background-color: #1DA1F2; border-color: #1DA1F2"><i class="bi bi-twitter"></i>&nbsp;@dotnettlse</a>
+</div>
+
 
 ### Participez !
 
@@ -46,16 +54,5 @@ Si vous avez des idées de sujets, ou si vous souhaitez nous contacter en rappor
 
 <div class="text-center">
     <a class="btn btn-lg btn-primary" href="https://conference-hall.io/public/event/pZtNg2uiVvdyucYrRoB7" role="button" style="background-color: #ffab00; border-color: #ffab00; color: #2a3244"><i class="bi bi-megaphone-fill"></i>&nbsp;Call-for-Paper</a>
-    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Meetup .Net Toulouse</a>
-    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style=""><i class="bi bi-envelope-heart"></i>&nbsp;Email</a>
-</div>
-
-
-### En ligne
-
-Vous pouvez venir discuter avec les autres adhérents.
-
-<div class="text-center">
-    <a class="btn btn-lg btn-primary" href="https://discord.gg/yZRf79ag" role="button" style="background-color: #7289DA; border-color: #7289DA"><i class="bi bi-discord"></i>&nbsp;Serveur Discord</a>
-    <a class="btn btn-lg btn-primary" href="https://twitter.com/dotnettlse" role="button" style="background-color: #1DA1F2; border-color: #1DA1F2"><i class="bi bi-twitter"></i>&nbsp;@dotnettlse</a>
+    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Meetup .Net Toulouse</a> 
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: content
 id: "association"
-permalink: /association/
+permalink: /association
 title: L'Association
 css: association
 ---
