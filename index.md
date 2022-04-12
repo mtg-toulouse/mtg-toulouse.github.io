@@ -30,12 +30,12 @@ Le MTG:Toulouse est membre des MTG et de .NET Foundation :
 
 Nous organisons des conférences "Meetup" chaque troisième lundi du mois, de septembre à juin.
 
-Ces conférences s'effectuent en général en présentiel à **NovaMêlée**, au *27 Rue d'Aubuisson à Toulouse*.
+Ces conférences s'effectuent en général en présentiel à **La Cantine NovaMêlée**, au *27 Rue d'Aubuisson à Toulouse*.
 
 Elles peuvent parfois être délocalisées dans des sociétés, des écoles ou d'autres lieux pour des occasions particulières.
 
 <div class="text-center">
-    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Meetup .Net Toulouse</a>
+    <a class="btn btn-lg btn-primary" href="https://www.meetup.com/fr-FR/MTG-Toulouse/" role="button" style="background-color: #f65858; border-color: #F65858"><i class="bi bi-calendar-event"></i>&nbsp;Meetup MTG:Toulouse</a>
 </div>
 
 Vous pouvez venir discuter en ligne avec nous et les autres adhérents.
