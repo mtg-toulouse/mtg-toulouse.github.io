@@ -5,7 +5,7 @@ permalink: /coc/
 title: Code de Conduite
 ---
 
-L'association MTG:Toulouse souhaite organiser des évènements à l'attention de tous, quelque soit votre genre, identité de genre, orientation sexuelle, handicap, apparence physique, race, age ou religion.
+L'association DotnetTlse souhaite organiser des évènements à l'attention de tous, quelque soit votre genre, identité de genre, orientation sexuelle, handicap, apparence physique, race, age ou religion.
 
 Nous ne tolérons aucun harcèlement, quelle que soit sa forme.
 

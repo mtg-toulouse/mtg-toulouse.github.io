@@ -24,22 +24,22 @@
     </div>
   </section>
 
-  <div
-    style="background-color: {{ site.pageHeaders['statistics'].bg }}; color: {{ site.pageHeaders['statistics'].font }};">
-    <section id="statistics">
-      <div class="container">
-        <div class="row">
+<!--  <div-->
+<!--    style="background-color: {{ site.pageHeaders['statistics'].bg }}; color: {{ site.pageHeaders['statistics'].font }};">-->
+<!--    <section id="statistics">-->
+<!--      <div class="container">-->
+<!--        <div class="row">-->
 
-          {% for statistic in site.data.statistics %}
-          <div class="col-sm-12 col-md-auto flex-grow-1 text-center">
-            <div class="stat">{{ statistic.count}}</span>{{ statistic.specialCharacter}}</div>
-            <div class="stat-label">{{ statistic.info}}</div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    </section>
-  </div>
+<!--          {% for statistic in site.data.statistics %}-->
+<!--          <div class="col-sm-12 col-md-auto flex-grow-1 text-center">-->
+<!--            <div class="stat">{{ statistic.count}}</span>{{ statistic.specialCharacter}}</div>-->
+<!--            <div class="stat-label">{{ statistic.info}}</div>-->
+<!--          </div>-->
+<!--          {% endfor %}-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </section>-->
+<!--  </div>-->
 
   {% include footer.html %}
   {% include js.html %}
