@@ -43,6 +43,7 @@ Vous pouvez venir discuter en ligne avec nous et les autres adhérents.
 <div class="text-center">
     <a class="btn btn-lg btn-primary" href="https://discord.gg/yZRf79ag" role="button" style="background-color: #7289DA; border-color: #7289DA"><i class="bi bi-discord"></i>&nbsp;Serveur Discord</a>
     <a class="btn btn-lg btn-primary" href="https://twitter.com/MTG_Toulouse" role="button" style="background-color: #1DA1F2; border-color: #1DA1F2"><i class="bi bi-twitter"></i>&nbsp;@MTG_Toulouse</a>
+    <a class="btn btn-lg btn-primary" href="https://www.linkedin.com/company/mtg-toulouse" role="button" style="background-color: #0A66C2; border-color: #0A66C2"><i class="bi bi-linkedin"></i>&nbsp;LinkedIn</a>
 </div>
 
 
