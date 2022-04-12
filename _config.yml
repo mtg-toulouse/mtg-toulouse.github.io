@@ -61,7 +61,7 @@ social:
 
 share:
   - platform: twitter
-    url: "https://twitter.com/share?url=%2f&text="
+    url: "https://twitter.com/share?url=https:%2f%2fwww.mtg-toulouse.org&text="
     text: "Je viens de rejoindre @MTG_Toulouse !"
 
 # Build settings
