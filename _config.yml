@@ -58,6 +58,8 @@ social:
 #    url: https://www.youtube.com/c/MUGTVFrance
   - title: twitter
     url: https://twitter.com/MTG_Toulouse
+  - title: linkedin
+    url: https://www.linkedin.com/company/mtg-toulouse
 
 share:
   - platform: twitter
