@@ -62,7 +62,7 @@ social:
 share:
   - platform: twitter
     url: "https://twitter.com/share?url=%2f&text="
-    text: "I am at the %23MTGSummit and it is awesome!"
+    text: "Je viens de rejoindre @MTG_Toulouse !"
 
 # Build settings
 markdown: kramdown
