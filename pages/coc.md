@@ -5,7 +5,7 @@ permalink: /coc/
 title: Code de Conduite
 ---
 
-L'association DotnetTlse souhaite organiser des évènements à l'attention de tous, quelque soit votre genre, identité de genre, orientation sexuelle, handicap, apparence physique, race, age ou religion.
+L'association DotnetTlse souhaite organiser des évènements à l'attention de tous, quelque soit votre genre, identité de genre, orientation sexuelle, handicap, apparence physique, race, âge ou religion.
 
 Nous ne tolérons aucun harcèlement, quelle que soit sa forme.
 
@@ -30,8 +30,8 @@ Toute demande à un participant de stopper un comportement jugé innaproprié do
 
 Tous les participants à un évènement ou se trouvant sur le lieu de l'évènement sont aussi appelés à respecter ce code de conduite.
 
-Si un participant manifest comportement innaproprié, les organisateurs de l'évènement se réservent le droit de prendre toute mesure permettant de maintenir une ambiance chaleureuse pour tous les participants de l'évènement.
-Ceci inclut l'avertissement du fautif ou son expulsion de l'énènement.
+Si un participant manifeste un comportement innaproprié, les organisateurs de l'évènement se réservent le droit de prendre toute mesure permettant de maintenir une ambiance chaleureuse pour tous les participants de l'évènement.
+Ceci inclut l'avertissement du fautif ou son expulsion de l'évènement.
 
 Nous attendons de tous les participants qu'ils suivent ces règles dans tous les évènements organisés par notre association.
 Nous pensons aussi que ces règles devraient être respectées en dehors des activités liées à nos évènements.
@@ -55,5 +55,6 @@ Une fois en sécurité, nous vous demanderons de nous expliquer ce qu'il s'est p
 Tout ceci peut être perturbant, mais nous ferons en sorte d'être les plus respectueux possibles, et vous pourrez vous faire accompagner.
 Nous ne  demanderons pas de confrontation, et nous ne divulgerons votre identité à personne.
 
-Notre équipe sera volontaire pour vous aider à contacter toute aide extérieure si nécessaire, pour vous aider à vous sentir rassurer durant la durée de l'évènement.
-Nous apportons beaucoup d'importance à votre présence.
+Notre équipe sera volontaire pour vous aider à contacter toute aide extérieure si nécessaire, pour vous aider à vous sentir rassuré durant la durée de l'évènement.
+
+Nous accordons beaucoup de valeur à votre présence à nos évènements.
