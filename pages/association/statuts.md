@@ -123,4 +123,4 @@ En cas de dissolution prononcée selon les modalités prévues à l'article 11, 
 
 L'association s'engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l'emploi des libéralités qu'elle serait autorisée à recevoir. 
  
-Fait à Saverdun, le XX juin 2022 
+Fait à Toulouse, le 4 juillet 2022 
