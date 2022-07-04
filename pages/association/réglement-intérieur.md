@@ -8,7 +8,7 @@ css: association
 
 # Règlement intérieur de l'association MTG:Toulouse
 
-Adopté par l'assemblée générale du XX juin 2022 
+Adopté par l'assemblée générale du 4 juillet 2022 
 
 ## Article 1 – Siège Social
 
