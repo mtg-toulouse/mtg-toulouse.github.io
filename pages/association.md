@@ -14,6 +14,7 @@ Tous les évènements du *MTG:Toulouse* sont organisés par l'association Dotnet
 
 * [Statuts]({{ 'association/statuts' | relative_url }})
 * [Réglement Intérieur]({{ 'association/réglement-intérieur' | relative_url }})
+* [AG du 4 juillet 2022]({{ 'association/2022-07-04-AG_2022' | relative_url }})
 * [AG du 17 juin 2021]({{ 'association/2021-06-17-AG_2021' | relative_url }})
 * [AG du 30 juin 2020]({{ 'association/2020-06-30-AG_2020' | relative_url }})
 * [AG du 13 septembre 2019]({{ 'association/2019-09-13-AG_2019' | relative_url }})
