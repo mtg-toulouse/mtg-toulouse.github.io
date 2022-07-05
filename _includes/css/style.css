@@ -135,6 +135,7 @@
       text-align: center;
       color: #fff;
       background-attachment: scroll;
+      background-color: #2F2F2F;
       background-image: url({{ 'images/header-bg-mtg.jpg' | relative_url }});
       background-position: center center;
       background-repeat: none;
