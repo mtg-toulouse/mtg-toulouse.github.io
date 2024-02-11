@@ -10,6 +10,14 @@ css: association
 
 Tous les évènements du *MTG:Toulouse* sont organisés par l'association MTG:Toulouse (Numéro RNA W313026308, ex DotNetTlse), dont vous pouvez retrouver les statuts ainsi que les différentes assemblées générales ci-dessous.
 
+Les membres du conseil d'administration actuels sont :
+
+* [Michel Amorosa](https://www.linkedin.com/in/michelamorosa/)
+* [Thomas Bolon](https://www.linkedin.com/in/tbolon/)
+* [Guillaume Lacasa](https://www.linkedin.com/in/guillaumelacasa/)
+* [Ionut Mihalcea](https://www.linkedin.com/in/ionutmihalcea/)
+* [David Toussaint](https://www.linkedin.com/in/david-toussaint-57629463/)
+
 ### Assemblées générales et documents officiels
 
 Documents :
