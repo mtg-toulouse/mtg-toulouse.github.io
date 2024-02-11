@@ -12,11 +12,17 @@ Tous les évènements du *MTG:Toulouse* sont organisés par l'association MTG:To
 
 ### Assemblées générales et documents officiels
 
+Documents :
+
 * [Statuts]({{ 'association/statuts' | relative_url }})
 * [Réglement Intérieur]({{ 'association/réglement-intérieur' | relative_url }})
 
+Annonces officielles :
+
 * [Annonce officielle de modification du 2 août 2022](https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce-carte/?q.id=id:202200310143)
 * [Annonce officielle de création du 27 mai 2017](https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce-carte/?q.id=id:201700210431)
+
+Assemblées :
   
 * [AG du 4 mai 2023]({{ 'association/2023-05-04-AG_2023' | relative_url }})
 * [AG du 4 juillet 2022]({{ 'association/2022-07-04-AG_2022' | relative_url }})
